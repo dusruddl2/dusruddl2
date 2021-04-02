@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요:) 응용통계학 전공 이연경입니다! 👋
 
 <!--
 **dusruddl2/dusruddl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

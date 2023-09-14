@@ -3,7 +3,7 @@
 🎓 세종대학교 수학통계학부 응용통계학 / 컴퓨터공학과 <br>
 📝 기록 블로그
 - <a href="https://velog.io/@dusruddl2"><img src="https://img.shields.io/badge/TechBlog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> 
-- <a href="[https://velog.io/@dusruddl2](https://m.blog.naver.com/dusruddl2_)"><img src="https://img.shields.io/badge/DailyBlog-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
+- <a href="https://m.blog.naver.com/dusruddl2_"><img src="https://img.shields.io/badge/DailyBlog-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 ### Experience

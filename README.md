@@ -25,16 +25,16 @@
 <br>
 
 ## 🖥️ Project
-- (2023.08 ~ 2023.09) SKT Prompter Day, **OpenAI를 이용한 동화 제작 서비스**
-- (2022.11 ~ 2023.12) 교내 인공지능 수업 텀프로젝트, **얼굴 표정에 따른 감정 분류기**
-- (2022.07 ~ 2023.10) **Nerf모델을 이용해 피규어를 뽑아내는 PLANKHYUNDONG**
-- (2022.08) Team Daiv 미니 프로젝트, **시각 장애인을 위한 편의점 음료 인식 서비스**
-- (2022.01 ~ 2022.03) 공공조달 빅데이터 경진대회, **퍼지 이론을 이용한 MAS 사후만족도 평가모델**
+- (2023.08 ~ 2023.09) SKT Prompter Day, OpenAI를 이용한 동화 제작 서비스
+- (2022.11 ~ 2023.12) 교내 인공지능 수업 텀프로젝트, 얼굴 표정에 따른 감정 분류기
+- (2022.07 ~ 2023.10) Nerf모델을 이용해 피규어를 뽑아내는 PLANKHYUNDONG
+- (2022.08) Team Daiv 미니 프로젝트, 시각 장애인을 위한 편의점 음료 인식 서비스
+- (2022.01 ~ 2022.03) 공공조달 빅데이터 경진대회, 퍼지 이론을 이용한 MAS 사후만족도 평가모델
 <br>
 
 ## 📰 Publication
-- (2022.05) **Post-Evaluation Model of Multiple Award Schedule (MAS) Using Fuzzy Theory**
-- (2022.12) **Mediation and Fuzzy Mediation Analysis for Multiple Covariates and Its Applications to Solar Power Data**
+- (2022.05) Post-Evaluation Model of Multiple Award Schedule (MAS) Using Fuzzy Theory
+- (2022.12) Mediation and Fuzzy Mediation Analysis for Multiple Covariates and Its Applications to Solar Power Data
 <br>
 
 ## Etc

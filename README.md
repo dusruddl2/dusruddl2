@@ -13,9 +13,9 @@
 <br>
 
 ## 👀 Research Interests
-- ML / DL
+- 3D vision
 - CV
-- Generative AI
+
 <br>
 
 ## 📚 Experience

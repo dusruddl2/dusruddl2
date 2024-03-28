@@ -2,7 +2,8 @@
 <br>
 
 - <a href="https://dusruddl2.notion.site/Portfolio-f5ab1ec4366c4438ac0ac29aee206377?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-- <a href="https://velog.io/@dusruddl2"><img src="https://img.shields.io/badge/TechBlog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> 
+- <a href="https://velog.io/@dusruddl2"><img src="https://img.shields.io/badge/TechBlog1-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+- <a href="https://dusruddl2.tistory.com"><img src="https://img.shields.io/badge/TechBlog2-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
 - <a href="https://m.blog.naver.com/dusruddl2_"><img src="https://img.shields.io/badge/DailyBlog-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <br>

@@ -38,7 +38,3 @@
 - (2022.05) Post-Evaluation Model of Multiple Award Schedule (MAS) Using Fuzzy Theory
 - (2022.12) Mediation and Fuzzy Mediation Analysis for Multiple Covariates and Its Applications to Solar Power Data
 <br>
-
-## Etc
-- (2023.01 ~ 2023.05) 미국 Augsburg University 교환학생
-- (2020.01 ~ 2023.12) 수학 조교 및 강사
